@@ -1,0 +1,34 @@
+{
+    "name": "ahnames/yii2-asset-ahnames",
+    "type": "yii2-extension",
+    "description": "Yii 2 asset with AHnames logos and so on",
+    "keywords": [
+        "ahnames",
+        "asset",
+        "extension",
+        "yii2"
+    ],
+    "homepage": "https://ahnames.com/yii2-asset-ahnames",
+    "license": "No license",
+    "support": {
+        "email": "support@ahnames.com",
+        "source": "https://github.com/ahnames/yii2-asset-ahnames",
+        "issues": "https://github.com/ahnames/yii2-asset-ahnames/issues",
+        "wiki": "https://github.com/ahnames/yii2-asset-ahnames/wiki"
+    },
+    "authors": [
+        {
+            "name": "Andrii Vasyliev",
+            "email": "sol@hiqdev.com",
+            "homepage": "https://hipanel.com/"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ahnames\\assets\\ahnames\\": ""
+        }
+    }
+}

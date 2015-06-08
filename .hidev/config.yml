@@ -1,0 +1,15 @@
+parent:
+    github:         ahnames/hidev-config
+
+package:
+    name:           yii2-asset-ahnames
+    namespace:      ahnames\assets\ahnames
+    title:          Yii 2 asset with AHnames logos and so on
+    type:           yii2-extension
+    keywords:       ahnames, asset, extension, yii2
+    year:           2015
+
+composer.json:
+    require:
+        yiisoft/yii2:               "~2.0"
+
