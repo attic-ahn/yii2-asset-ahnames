@@ -4,6 +4,7 @@ ahnames/yii2-asset-ahnames commits history
 ## Under development
 
 - Changed to No license
+    - c16e6b9 2015-08-17 php-cs-fixed (sol@hiqdev.com)
     - caf3900 2015-08-17 changed to No license (sol@hiqdev.com)
 - Changed: moved to src and rehideved
     - d8c8fd0 2015-08-17 php-cs-fixed (sol@hiqdev.com)
