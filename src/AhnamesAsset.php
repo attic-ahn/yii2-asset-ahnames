@@ -5,7 +5,7 @@
  *
  * @link      https://github.com/ahnames/yii2-asset-ahnames
  * @package   yii2-asset-ahnames
- * @license   BSD-3-Clause
+ * @license   No license
  * @copyright Copyright (c) 2015, AHnames (https://ahnames.com/)
  */
 
