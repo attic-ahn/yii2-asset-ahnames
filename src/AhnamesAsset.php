@@ -1,11 +1,20 @@
 <?php
 
+/*
+ * Yii 2 asset with AHnames logos and so on
+ *
+ * @link      https://github.com/ahnames/yii2-asset-ahnames
+ * @package   yii2-asset-ahnames
+ * @license   BSD-3-Clause
+ * @copyright Copyright (c) 2015, AHnames (https://ahnames.com/)
+ */
+
 namespace ahnames\assets\ahnames;
 
 class AhnamesAsset extends \yii\web\AssetBundle
 {
     /**
-     * @inheritdoc
+     * {@inheritdoc}
      */
     public $sourcePath = '@ahnames/assets/ahnames/assets';
 }
