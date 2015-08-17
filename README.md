@@ -26,6 +26,6 @@ to the require section of your composer.json.
 
 ## Licence
 
-BSD-3-Clause
+[No license](http://choosealicense.com/licenses/no-license)
 
 Copyright © 2015, AHnames (https://ahnames.com/)
