@@ -1,6 +1,3 @@
-parent:
-    github:         ahnames/hidev-config
-
 package:
     name:           yii2-asset-ahnames
     namespace:      ahnames\assets\ahnames
@@ -9,7 +6,6 @@ package:
     keywords:       ahnames, asset, extension, yii2
     year:           2015
 
-composer.json:
-    require:
-        yiisoft/yii2:               "~2.0"
-
+require:
+    ahnames/hidev-config:       "*"
+    hiqdev/hidev-config-php:    "*"
