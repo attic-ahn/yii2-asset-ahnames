@@ -3,6 +3,8 @@ ahnames/yii2-asset-ahnames commits history
 
 ## Under development
 
+- Fixed logo.png to white
+    - d8d74d2 2015-08-18 fixed logo.png to white (sol@hiqdev.com)
 - Changed to No license
     - c16e6b9 2015-08-17 php-cs-fixed (sol@hiqdev.com)
     - caf3900 2015-08-17 changed to No license (sol@hiqdev.com)
