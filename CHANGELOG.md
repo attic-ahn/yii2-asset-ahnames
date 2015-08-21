@@ -3,6 +3,7 @@ ahnames/yii2-asset-ahnames changelog
 
 ## Under development
 
+- Added config/params.php for AHnames general params
 - Fixed logo.png to white
 - Changed to No license
 - Changed: moved to src and rehideved
