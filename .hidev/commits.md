@@ -4,6 +4,7 @@ ahnames/yii2-asset-ahnames commits history
 ## Under development
 
 - Added config/params.php for AHnames general params
+    - 9ec0898 2015-08-22 php-cs-fixed (sol@hiqdev.com)
     - ee1846e 2015-08-21 + config/params.php (sol@hiqdev.com)
 - Fixed logo.png to white
     - d8d74d2 2015-08-18 fixed logo.png to white (sol@hiqdev.com)
