@@ -3,6 +3,8 @@ ahnames/yii2-asset-ahnames commits history
 
 ## Under development
 
+- Added ahnames.css with logo class
+    - 3050037 2015-08-22 + ahnames.css with logo class (sol@hiqdev.com)
 - Added config/params.php for AHnames general params
     - 9ec0898 2015-08-22 php-cs-fixed (sol@hiqdev.com)
     - ee1846e 2015-08-21 + config/params.php (sol@hiqdev.com)
