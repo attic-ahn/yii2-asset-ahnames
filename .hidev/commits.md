@@ -3,6 +3,8 @@ ahnames/yii2-asset-ahnames commits history
 
 ## Under development
 
+- Added favicon.ico
+    - 0f24db0 2015-08-30 + favicon.ico (sol@hiqdev.com)
 - Added ahnames.css with logo class
     - 37ac59e 2015-08-22 fixed ahnames.css (sol@hiqdev.com)
     - 3050037 2015-08-22 + ahnames.css with logo class (sol@hiqdev.com)
@@ -17,7 +19,7 @@ ahnames/yii2-asset-ahnames commits history
 - Changed: moved to src and rehideved
     - d8c8fd0 2015-08-17 php-cs-fixed (sol@hiqdev.com)
     - af6f06b 2015-08-17 rehideved (sol@hiqdev.com)
-- Inited
+- Added basics
     - c557adf 2015-06-08 inited (sol@hiqdev.com)
 
 ## Development started June 8, 2015
