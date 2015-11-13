@@ -3,6 +3,9 @@ ahnames/yii2-asset-ahnames commits history
 
 ## Under development
 
+
+## 0.0.1 2015-11-13
+
 - Fixed (improved) package description
     - ca262c7 2015-11-13 php-cs-fixed (sol@hiqdev.com)
     - 1477780 2015-11-13 improved package description (sol@hiqdev.com)

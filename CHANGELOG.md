@@ -3,6 +3,9 @@ ahnames/yii2-asset-ahnames changelog
 
 ## Under development
 
+
+## 0.0.1 2015-11-13
+
 - Fixed (improved) package description
 - Added images and css
 - Added config/params.php for AHnames general params
