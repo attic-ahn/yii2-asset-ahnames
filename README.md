@@ -12,7 +12,7 @@ AHnames assets
 This package provides assets shareable between different AHnames projects:
 - logos and css bundled with yii2 asset bundle
 - config settings
-- tranlations
+- translations
 
 ## Installation
 
