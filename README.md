@@ -1,10 +1,18 @@
-Yii 2 asset with AHnames logos and so on
-----------------------------------------
+AHnames assets
+==============
 
-Yii 2 asset with AHnames logos and so on
+**Yii2 assets bundle with AHnames logos and so on**
 
-[![Latest Stable Version](https://poser.pugx.org/ahnames/yii2-asset-ahnames/v/stable.png)](https://packagist.org/packages/ahnames/yii2-asset-ahnames)
-[![Total Downloads](https://poser.pugx.org/ahnames/yii2-asset-ahnames/downloads.png)](https://packagist.org/packages/ahnames/yii2-asset-ahnames)
+[![Latest Stable Version](https://poser.pugx.org/ahnames/yii2-asset-ahnames/v/stable)](//packagist.org/packages/ahnames/yii2-asset-ahnames)
+[![Total Downloads](https://poser.pugx.org/ahnames/yii2-asset-ahnames/downloads)](//packagist.org/packages/ahnames/yii2-asset-ahnames)
+[![Dependency Status](https://www.versioneye.com/php/ahnames:yii2-asset-ahnames/dev-master/badge.svg)](https://www.versioneye.com/php/ahnames:yii2-asset-ahnames/dev-master)
+
+[AHnames](https://ahnames.com) is a domain registrator.
+
+This package provides assets shareable between different AHnames projects:
+- logos and css bundled with yii2 asset bundle
+- config settings
+- tranlations
 
 ## Installation
 
@@ -24,8 +32,9 @@ or add
 
 to the require section of your composer.json.
 
-## Licence
+## License
 
-[No license](http://choosealicense.com/licenses/no-license)
+This project is released under the terms of the No license [license](LICENSE).
+Read more [here](http://choosealicense.com/licenses/no-license).
 
 Copyright © 2015, AHnames (https://ahnames.com/)

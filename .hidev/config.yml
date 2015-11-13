@@ -1,10 +1,18 @@
 package:
     name:           yii2-asset-ahnames
     namespace:      ahnames\assets\ahnames
-    title:          Yii 2 asset with AHnames logos and so on
+    headline:       AHnames assets
+    title:          Yii2 assets bundle with AHnames logos and so on
     type:           yii2-extension
     keywords:       ahnames, asset, extension, yii2
     year:           2015
+    description:    |
+        [AHnames](https://ahnames.com) is a domain registrator.
+
+        This package provides assets shareable between different AHnames projects:
+        - logos and css bundled with yii2 asset bundle
+        - config settings
+        - tranlations
 
 require:
     ahnames/hidev-config:       "*"
