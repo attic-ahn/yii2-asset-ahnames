@@ -1,7 +1,7 @@
 <?php
 
 /*
- * Yii 2 asset with AHnames logos and so on
+ * Yii2 assets bundle with AHnames logos and so on
  *
  * @link      https://github.com/ahnames/yii2-asset-ahnames
  * @package   yii2-asset-ahnames
