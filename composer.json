@@ -1,7 +1,7 @@
 {
     "name": "ahnames/yii2-asset-ahnames",
     "type": "yii2-extension",
-    "description": "Yii2 assets bundle with AHnames logos and so on",
+    "description": "AHnames asset files: images, configs and more",
     "keywords": [
         "ahnames",
         "asset",

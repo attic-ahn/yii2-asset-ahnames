@@ -1,9 +1,6 @@
 ahnames/yii2-asset-ahnames changelog
 ------------------------------------
 
-## Under development
-
-
 ## 0.0.1 2015-11-13
 
 - Fixed (improved) package description
