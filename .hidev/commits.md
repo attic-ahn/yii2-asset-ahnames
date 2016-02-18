@@ -1,6 +1,13 @@
 ahnames/yii2-asset-ahnames commits history
 ------------------------------------------
 
+## Under development
+
+- Fixed: updated with latest HiDev features
+    - 801c364 2016-02-18 removed dependency on yii2 cause can be used without it (sol@hiqdev.com)
+    - 361bce2 2016-02-18 inited tests (sol@hiqdev.com)
+    - 7d4fee2 2016-02-18 rehideved (sol@hiqdev.com)
+
 ## 0.0.1 2015-11-13
 
 - Fixed (improved) package description
