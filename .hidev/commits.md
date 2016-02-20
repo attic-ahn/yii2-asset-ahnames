@@ -1,6 +1,11 @@
 ahnames/yii2-asset-ahnames commits history
 ------------------------------------------
 
+## 0.0.3 2016-02-20
+
+- Changed license to proprietary
+    - da7bb63 2016-02-20 changed license to proprietary (sol@hiqdev.com)
+
 ## 0.0.2 2016-02-19
 
 - Fixed: updated with latest HiDev features

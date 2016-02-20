@@ -1,6 +1,10 @@
 ahnames/yii2-asset-ahnames changelog
 ------------------------------------
 
+## 0.0.3 2016-02-20
+
+- Changed license to proprietary
+
 ## 0.0.2 2016-02-19
 
 - Fixed: updated with latest HiDev features
