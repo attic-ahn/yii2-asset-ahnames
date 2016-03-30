@@ -1,11 +1,11 @@
 <?php
 
 /*
- * This is AHnames realization of HIAM
+ * Yii2 assets bundle with AHnames logos and params
  *
- * @link      https://github.com/ahnames/hiam
- * @package   hiam
- * @license   No license
+ * @link      https://github.com/ahnames/yii2-asset-ahnames
+ * @package   yii2-asset-ahnames
+ * @license   proprietary
  * @copyright Copyright (c) 2015-2016, AHnames (https://ahnames.com/)
  */
 

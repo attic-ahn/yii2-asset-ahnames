@@ -6,8 +6,8 @@ AHnames assets
 [![Latest Stable Version](https://poser.pugx.org/ahnames/yii2-asset-ahnames/v/stable)](https://packagist.org/packages/ahnames/yii2-asset-ahnames)
 [![Total Downloads](https://poser.pugx.org/ahnames/yii2-asset-ahnames/downloads)](https://packagist.org/packages/ahnames/yii2-asset-ahnames)
 [![Build Status](https://img.shields.io/travis/ahnames/yii2-asset-ahnames.svg)](https://travis-ci.org/ahnames/yii2-asset-ahnames)
-[![Code Coverage](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/?branch=master)
-[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/?branch=master)
+[![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/ahnames/yii2-asset-ahnames.svg)](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/)
+[![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ahnames/yii2-asset-ahnames.svg)](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/)
 
 [AHnames](https://ahnames.com) is a domain registrator.
 

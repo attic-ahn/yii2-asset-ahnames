@@ -1,6 +1,10 @@
 ahnames/yii2-asset-ahnames commits history
 ------------------------------------------
 
+## Under development
+
+    - 8ee7280 2016-03-30 + plugin-config (sol@hiqdev.com)
+
 ## 0.0.3 2016-02-20
 
 - Changed license to proprietary
