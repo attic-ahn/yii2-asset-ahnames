@@ -8,7 +8,6 @@ AHnames assets
 [![Build Status](https://img.shields.io/travis/ahnames/yii2-asset-ahnames.svg)](https://travis-ci.org/ahnames/yii2-asset-ahnames)
 [![Scrutinizer Code Coverage](https://img.shields.io/scrutinizer/coverage/g/ahnames/yii2-asset-ahnames.svg)](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/ahnames/yii2-asset-ahnames.svg)](https://scrutinizer-ci.com/g/ahnames/yii2-asset-ahnames/)
-[![Dependency Status](https://www.versioneye.com/php/ahnames:yii2-asset-ahnames/dev-master/badge.svg)](https://www.versioneye.com/php/ahnames:yii2-asset-ahnames/dev-master)
 
 [AHnames](https://ahnames.com) is a domain registrator.
 
