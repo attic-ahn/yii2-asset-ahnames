@@ -15,5 +15,5 @@ package:
         - translations
 
 require:
-    hiqdev/hidev-php:     "*"
-    ahnames/hidev-vendor: "*"
+    hiqdev/hidev-php:       "*"
+    ahnames/hidev-vendor:   "*"
