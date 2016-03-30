@@ -23,21 +23,9 @@
             "homepage": "https://hipanel.com/"
         }
     ],
-    "require": {
-        "hiqdev/composer-asset-plugin": "*",
-        "hiqdev/composer-extension-plugin": "*",
-        "yiisoft/yii2": "~2.0"
-    },
-    "require-dev": {
-        "hiqdev/composer-asset-plugin": "*@dev",
-        "hiqdev/composer-extension-plugin": "*@dev"
-    },
     "autoload": {
         "psr-4": {
             "ahnames\\assets\\ahnames\\": "src"
         }
-    },
-    "extra": {
-        "plugin-config": "src/plugin-config.php"
     }
 }

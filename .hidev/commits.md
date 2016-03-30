@@ -3,7 +3,7 @@ ahnames/yii2-asset-ahnames commits history
 
 ## Under development
 
-- Nothing
+- Removed dependencies
     - a50cba7 2016-03-30 rehideved (sol@hiqdev.com)
     - 00ef2dc 2016-03-30 phpcsfixed (sol@hiqdev.com)
     - 8ee7280 2016-03-30 + plugin-config (sol@hiqdev.com)
