@@ -3,7 +3,8 @@ ahnames/yii2-asset-ahnames commits history
 
 ## Under development
 
-- Added plugin config
+- Nothing
+    - a50cba7 2016-03-30 rehideved (sol@hiqdev.com)
     - 00ef2dc 2016-03-30 phpcsfixed (sol@hiqdev.com)
     - 8ee7280 2016-03-30 + plugin-config (sol@hiqdev.com)
 
@@ -18,7 +19,6 @@ ahnames/yii2-asset-ahnames commits history
     - 801c364 2016-02-18 removed dependency on yii2 cause can be used without it (sol@hiqdev.com)
     - 361bce2 2016-02-18 inited tests (sol@hiqdev.com)
     - 7d4fee2 2016-02-18 rehideved (sol@hiqdev.com)
-    - 8fc1ae9 2016-03-30 + plugin-config (sol@hiqdev.com)
 
 ## 0.0.1 2015-11-13
 

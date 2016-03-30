@@ -3,6 +3,7 @@ ahnames/yii2-asset-ahnames changelog
 
 ## Under development
 
+- Nothing
 
 ## 0.0.3 2016-02-20
 
