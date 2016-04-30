@@ -23,6 +23,10 @@
             "homepage": "https://hipanel.com/"
         }
     ],
+    "require-dev": {
+        "hiqdev/hidev-php": "<2.0",
+        "ahnames/hidev-vendor": "<2.0"
+    },
     "autoload": {
         "psr-4": {
             "ahnames\\assets\\ahnames\\": "src"
