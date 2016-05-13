@@ -1,7 +1,7 @@
 ahnames/yii2-asset-ahnames commits history
 ------------------------------------------
 
-## Under development
+## 0.1.0 2016-05-13
 
 - Changed to `require-dev` hidev plugins
     - dfa9e0e 2016-04-30 changed to require-dev hidev plugins (sol@hiqdev.com)

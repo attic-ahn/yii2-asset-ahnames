@@ -1,7 +1,7 @@
 ahnames/yii2-asset-ahnames changelog
 ------------------------------------
 
-## Under development
+## 0.1.0 2016-05-13
 
 - Changed to `require-dev` hidev plugins
 
