@@ -27,6 +27,12 @@
         "hiqdev/hidev-php": "<2.0",
         "ahnames/hidev-vendor": "<2.0"
     },
+    "extra": {
+        "extension-plugin": {
+            "hidev-config": "src/config/hidev.php",
+            "hisite-config": "src/config/hisite.php"
+        }
+    },
     "autoload": {
         "psr-4": {
             "ahnames\\assets\\ahnames\\": "src"
