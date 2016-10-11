@@ -14,6 +14,10 @@ return [
     'organizationUrl'   => 'https://ahnames.com/',
     'supportEmail'      => 'support@ahnames.com',
     'adminEmail'        => 'support@ahnames.com',
+    'abuseEmail'        => 'abuse@ahnames.com',
+    'salesEmail'        => 'sales@ahnames.com',
+    'contactICQ'        => '593-341-721',
+    'contactSkype'      => 'ah.andre',
 
     'copyrightYear'     => 2011,
 
