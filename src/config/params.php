@@ -22,6 +22,6 @@ return [
     'copyrightYear'     => 2011,
 
     'twitter_link'      => 'https://twitter.com/ahnames',
-    'facebootk_link'    => 'https://www.facebook.com/ahnames',
+    'facebook_link'     => 'https://www.facebook.com/ahnames',
     'vk_link'           => 'https://vk.com/ahnames',
 ];
