@@ -21,22 +21,27 @@
             "name": "Andrii Vasyliev",
             "email": "sol@hiqdev.com",
             "homepage": "https://hipanel.com/"
+        },
+        {
+            "name": "Dmitry Naumenko",
+            "email": "d.naumenko.a@gmail.com",
+            "homepage": "http://silverfire.me/"
         }
     ],
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
-        "ahnames/hidev-vendor": "<2.0"
+        "ahnames/hidev-ahnames": "<2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "ahnames\\assets\\ahnames\\": "src"
+        }
     },
     "extra": {
         "config-plugin": {
             "params": "src/config/params.php",
             "hisite": "src/config/hisite.php",
             "hidev": "src/config/hidev.php"
-        }
-    },
-    "autoload": {
-        "psr-4": {
-            "ahnames\\assets\\ahnames\\": "src"
         }
     }
 }
