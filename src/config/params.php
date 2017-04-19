@@ -8,12 +8,13 @@
  * @copyright Copyright (c) 2015-2017, AHnames (https://ahnames.com/)
  */
 
+$supportEmail = 'support@ahnames.com';
 
 return [
     'favicon.ico'       => '@ahnames/assets/ahnames/assets/images/favicon.ico',
 
-    'organizationName'  => 'AHnames',
-    'organizationUrl'   => 'https://ahnames.com/',
+    'organization.name' => 'AHnames',
+    'organization.url'  => 'https://ahnames.com/',
 
     'supportEmail'      => 'support@ahnames.com',
     'adminEmail'        => 'support@ahnames.com',
@@ -23,9 +24,12 @@ return [
     'contactICQ'        => '593-341-721',
     'contactSkype'      => 'ah.andre',
 
-    'copyrightYear'     => 2011,
+    'copyright.year'    => 2011,
 
-    'twitter_link'      => 'https://twitter.com/ahnames',
-    'facebook_link'     => 'https://www.facebook.com/ahnames',
-    'vk_link'           => 'https://vk.com/ahnames',
+    'socialLinks.links' => [
+        'email'     => 'mailto:' . $supportEmail,
+        'twitter'   => 'https://twitter.com/ahnames',
+        'facebook'  => 'https://www.facebook.com/ahnames',
+        'vk'        => 'https://vk.com/ahnames',
+    ],
 ];
