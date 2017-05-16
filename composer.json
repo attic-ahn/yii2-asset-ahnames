@@ -30,7 +30,7 @@
     ],
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
-        "ahnames/hidev-ahnames": "<2.0"
+        "ahnames/hidev-ahnames": "<2.0 || dev-master"
     },
     "autoload": {
         "psr-4": {

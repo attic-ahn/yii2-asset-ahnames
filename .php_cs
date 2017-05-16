@@ -20,6 +20,9 @@ return PhpCsFixer\Config::create()
             'location'      => 'after_declare_strict',
             'commentType'   => 'PHPDoc',
         ],
+        'phpdoc_no_alias_tag'                        =>  ['replacements' => ['type' => 'var']],
+        'phpdoc_separation'                          =>  false,
+        'concat_space'                               =>  ['spacing' => 'one'],
     ))
     ->setFinder(
         PhpCsFixer\Finder::create()
