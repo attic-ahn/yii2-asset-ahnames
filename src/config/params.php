@@ -26,6 +26,10 @@ return [
 
     'copyright.year'    => 2011,
 
+    'logo.image'                => '@ahnames/assets/ahnames/assets/images/logo.png',
+    'logo.smallImage'           => '@ahnames/assets/ahnames/assets/images/logo.png',
+    'logo.smallImageOptions'    => ['style' => 'width: 50px'],
+
     'socialLinks.links' => [
         'email'     => 'mailto:' . $supportEmail,
         'twitter'   => 'https://twitter.com/ahnames',
