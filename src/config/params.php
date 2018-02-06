@@ -13,8 +13,9 @@ $supportEmail = 'support@ahnames.com';
 return [
     'favicon.ico'       => '@ahnames/assets/ahnames/assets/images/favicon.ico',
 
-    'organization.name' => 'AHnames',
-    'organization.url'  => 'https://ahnames.com/',
+    'organization.name'     => 'AHnames',
+    'organization.url'      => 'https://ahnames.com/',
+    'organization.termsUrl' => 'https://ahnames.com/rules',
 
     'supportEmail'      => 'support@ahnames.com',
     'adminEmail'        => 'support@ahnames.com',
