@@ -21,6 +21,7 @@ return [
     'adminEmail'        => 'support@ahnames.com',
     'abuseEmail'        => 'abuse@ahnames.com',
     'salesEmail'        => 'sales@ahnames.com',
+    'gdprEmail'         => 'dpo@ahnames.com',
 
     'contactICQ'        => '593-341-721',
     'contactSkype'      => 'ah.andre',
