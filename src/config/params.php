@@ -23,6 +23,8 @@ return [
     'salesEmail'        => 'sales@ahnames.com',
     'gdprEmail'         => 'dpo@ahnames.com',
 
+    'legals.privacyPolicyUrl' => 'https://ahnames.com/rules/privacy',
+
     'contactICQ'        => '593-341-721',
     'contactSkype'      => 'ah.andre',
 
