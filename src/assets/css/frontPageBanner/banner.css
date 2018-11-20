@@ -1,0 +1,16 @@
+/* For  DataServ theme */
+body div.domainavailability {
+    padding: 292px 0 0px;
+    background-color: #303843;
+    height: 460px;
+    background-size: cover;
+}
+
+body div.domainavailability h1 {
+    display: none;
+}
+
+.domainavailability .domain-form-container {
+    position: absolute;
+    opacity: .8;
+}
