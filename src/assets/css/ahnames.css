@@ -1,4 +1,13 @@
 .logo-lg, .logo-mini {
-    background-image:  url(../images/logo.png);
+    background-image: url(../images/logo.png);
     background-repeat: no-repeat;
 }
+
+/* Fix top-fixed-menu */
+.sf-menu li a,
+.f-nav ul#navigation .notifications-cart .top-cart > span {
+    display: inline-block;
+    padding: 25px 15px !important;
+}
+.f-nav ul#navigation .notifications-cart div.top-cart { padding: 0px!important; }
+
