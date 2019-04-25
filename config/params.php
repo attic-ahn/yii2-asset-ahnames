@@ -25,11 +25,12 @@ return [
         'btw'                   => 'BTW: NL854910566B01',
     ],
 
-    'supportEmail'      => 'support@ahnames.com',
-    'adminEmail'        => 'support@ahnames.com',
-    'abuseEmail'        => 'abuse@ahnames.com',
-    'salesEmail'        => 'sales@ahnames.com',
-    'gdprEmail'         => 'dpo@ahnames.com',
+    'supportEmail'           => 'support@ahnames.com',
+    'adminEmail'             => 'support@ahnames.com',
+    'abuseEmail'             => 'abuse@ahnames.com',
+    'salesEmail'             => 'sales@ahnames.com',
+    'gdprEmail'              => 'dpo@ahnames.com',
+    'ticketGlobalNotifyMail' => 'ahnames-tickets@advancedhosters.com',
 
     'legals.privacyPolicyUrl' => 'https://ahnames.com/rules/privacy',
 
