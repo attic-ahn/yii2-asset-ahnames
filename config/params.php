@@ -49,4 +49,6 @@ return [
         'facebook'  => 'https://www.facebook.com/ahnames',
         'vk'        => 'https://vk.com/ahnames',
     ],
+
+    'module.server.order.redirect.url' => 'https://advancedhosting.com/{language}/cloud-servers?refid=ahmen{language}',
 ];
