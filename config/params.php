@@ -15,7 +15,7 @@ return [
 
     'organization.name'     => 'AHnames',
     'organization.url'      => 'https://ahnames.com/',
-    'organization.termsUrl' => 'https://ahnames.com/rules',
+    'terms.url'             => 'https://ahnames.com/rules',
     'organization.contact'   => [
         'name'                  => 'ADVANCED HOSTERS B.V.',
         'street'                => 'Lagendijk 1, A207',
@@ -24,8 +24,6 @@ return [
         'reg'                   => 'REG: 62669559',
         'btw'                   => 'BTW: NL854910566B01',
     ],
-    'terms.url'         => 'https://ahnames.com/rules',
-    'privacy.policy.url'=> 'https://ahnames.com/rules/privacy',
 
     'supportEmail'           => 'support@ahnames.com',
     'adminEmail'             => 'support@ahnames.com',
@@ -34,7 +32,7 @@ return [
     'gdprEmail'              => 'dpo@ahnames.com',
     'ticketGlobalNotifyMail' => 'ahnames-tickets@advancedhosters.com',
 
-    'legals.privacyPolicyUrl' => 'https://ahnames.com/rules/privacy',
+    'privacy.policy.url' => 'https://ahnames.com/rules/privacy',
 
     'contactICQ'        => '593-341-721',
     'contactSkype'      => 'ah.andre',
