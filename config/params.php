@@ -15,7 +15,6 @@ return [
 
     'organization.name'     => 'AHnames',
     'organization.url'      => 'https://ahnames.com/',
-    'organization.termsUrl' => 'https://ahnames.com/rules',
     'organization.contact'   => [
         'name'                  => 'ADVANCED HOSTERS B.V.',
         'street'                => 'Lagendijk 1, A207',
@@ -32,7 +31,8 @@ return [
     'gdprEmail'              => 'dpo@ahnames.com',
     'ticketGlobalNotifyMail' => 'ahnames-tickets@advancedhosters.com',
 
-    'legals.privacyPolicyUrl' => 'https://ahnames.com/rules/privacy',
+    'terms.url'              => 'https://ahnames.com/rules',
+    'privacy.policy.url'     => 'https://ahnames.com/rules/privacy',
 
     'contactICQ'        => '593-341-721',
     'contactSkype'      => 'ah.andre',
