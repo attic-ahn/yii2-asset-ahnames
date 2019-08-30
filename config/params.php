@@ -24,6 +24,8 @@ return [
         'reg'                   => 'REG: 62669559',
         'btw'                   => 'BTW: NL854910566B01',
     ],
+    'terms.url'         => 'https://ahnames.com/rules',
+    'privacy.policy.url'=> 'https://ahnames.com/rules/privacy',
 
     'supportEmail'           => 'support@ahnames.com',
     'adminEmail'             => 'support@ahnames.com',
