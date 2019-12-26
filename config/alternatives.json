@@ -1,0 +1,47 @@
+{
+    "hiam.ahnames.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/ahnames.env"
+    },
+    "hipanel.ahnames.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/ahnames.env"
+    },
+    "new.ahnames.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/ahnames.env"
+    },
+    "auth.evo.ua-hosting.org": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/wek007.env"
+    },
+    "panel.evo.ua-hosting.org": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/wek007.env"
+    },
+    "new.evo.ua-hosting.org": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/wek007.env"
+    },
+    "hiam.dropwind.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/dropwind.env"
+    },
+    "hipanel.dropwind.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/dropwind.env"
+    },
+    "new.dropwind.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/dropwind.env"
+    },
+    "hiam.0domain.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/ko_on.env"
+    },
+    "hipanel.0domain.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/ko_on.env"
+    },
+    "0domain.com": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/ko_on.env"
+    },
+    "auth.truedomain.biz": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/emil.env"
+    },
+    "hipanel.truedomain.biz": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/emil.env"
+    },
+    "truedomain.biz": {
+        "dotenv": "vendor/ahnames/yii-asset-ahnames/config/emil.env"
+    }
+}
