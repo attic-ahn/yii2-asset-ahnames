@@ -11,7 +11,7 @@
 $supportEmail = 'support@ahnames.com';
 
 return [
-    'favicon.ico'       => '@ahnames/assets/ahnames/assets/images/favicon.ico',
+    'favicon.ico'       => dirname(__DIR__) . '/src/assets/images/favicon.ico',
 
     'organization.name'     => 'AHnames',
     'organization.url'      => 'https://ahnames.com/',
@@ -39,8 +39,8 @@ return [
 
     'copyright.year'    => 2011,
 
-    'logo.image'                => '@ahnames/assets/ahnames/assets/images/logo.png',
-    'logo.smallImage'           => '@ahnames/assets/ahnames/assets/images/logo.png',
+    'logo.image'                => dirname(__DIR__) . '/src/assets/images/logo.png',
+    'logo.smallImage'           => dirname(__DIR__) . '/src/assets/images/logo.png',
     'logo.smallImageOptions'    => ['style' => 'width: 50px'],
 
     'socialLinks.links' => [

@@ -14,7 +14,7 @@ use Yii;
 
 class AhnamesAsset extends \yii\web\AssetBundle
 {
-    public $sourcePath = '@ahnames/assets/ahnames/assets';
+    public $sourcePath = __DIR__ . '/assets';
 
     public $css = [
         'css/ahnames.css',
