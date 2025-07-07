@@ -12,6 +12,9 @@ $supportEmail = 'support@ahnames.com';
 
 return [
     'favicon.ico'       => '@ahnames/assets/ahnames/assets/images/favicon.ico',
+    'language.languages' => [
+        'en' => 'English',
+    ],
 
     'organization.name'     => 'AHnames',
     'organization.url'      => 'https://ahnames.com/',
